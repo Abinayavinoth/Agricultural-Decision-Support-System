@@ -1,8 +1,5 @@
 # 🌿 CropLogic — AI-Driven Smart Agriculture DSS
 
-> **Dissertation Project** · Abinaya V (CB.PS.I5DAS22102)  
-> M.Sc. Data Science · Amrita Vishwa Vidyapeetham, Coimbatore · April 2026
-
 ---
 
 ## Quick Start
